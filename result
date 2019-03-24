@@ -1,0 +1,9 @@
+nomad_SOURCES = \
+                app.cpp        \
+                buffer.cpp     \
+                frame.cpp      \
+                keymap.cpp     \
+                main.cpp       \
+                moc_keymap.cpp \
+                webview.cpp    \
+                resource.cpp
